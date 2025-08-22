@@ -41,4 +41,4 @@ doc_events = {
  	# }
 }
 
-fixtures = ['Loyalty Transaction Type', 'Loyalty Application Type', 'Loyalty Reward Type', 'Loyalty Remap Type', 'Loyalty Attribute Type', 'Loyalty Attribute', 'Loyalty PIN Change Reason', 'Loyalty Deactivate Reasons', 'Loyalty Card Type', 'Loyalty Customer Attribute', 'Loyalty Rewards', 'Loyalty Redemption', 'Loyalty PIN Entry', 'Loyalty Card Replacement', 'Loyalty Account Activation', 'Loyalty Account Deactivation', 'Loyalty Add Points', 'Custom Field', 'Property Setter']
+fixtures = ['Loyalty Transaction Type', 'Loyalty Application Type', 'Loyalty Reward Type', 'Loyalty Remap Type', 'Loyalty Card Type', 'Loyalty Rewards', 'Custom Field', 'Property Setter']
